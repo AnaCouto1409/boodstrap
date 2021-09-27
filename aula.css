@@ -1,0 +1,16 @@
+body {
+    padding-top: 50px;
+  }
+  .starter-template {
+    padding: 40px 15px;
+    text-align: center;
+  }
+  .mynav-color{
+      color: #7e459b;
+  }
+  .container{
+      display: inline;
+  }
+  .banner{
+      background-image: url(https://i0.wp.com/www.multarte.com.br/wp-content/uploads/2019/01/fundo-laranja37.png?fit=3840%2C2160&ssl=1);
+  }
